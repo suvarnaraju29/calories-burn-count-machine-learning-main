@@ -19,5 +19,5 @@ After couple of seconds the WebApp pops up in your browser and then you can modi
 # Reporting bugs and issues
 
 If you have any bugs or issues with this app, please state that in the `Issues` section of this Repository.In addition to that, you can keep in touch with myself by this Gmail:\
-marnisailaja123@gmail.com
+suvarnarajupuchakayala@gmail.com
 "# streamlit-to-heroku-tutorial" 
