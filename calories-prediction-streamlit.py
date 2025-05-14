@@ -14,7 +14,7 @@ from sklearn import metrics
 import time
 
 from matplotlib import style
-style.use("seaborn")
+style.use("seaborn-v0_8")
 from IPython.display import HTML
 import plotly.express as px
 
